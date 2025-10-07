@@ -1,0 +1,20 @@
+fever : Paracetamol, Ibuprofen
+headache : Aspirin, Paracetamol
+cough : Dextromethorphan, Guaifenesin
+nausea : Ondansetron, Metoclopramide
+sore throat : Lozenges, Warm saline gargle, Paracetamol
+cold : Antihistamines, Paracetamol, Decongestants
+vomiting : Ondansetron, Domperidone
+diarrhea : ORS, Loperamide, Zinc supplements
+allergy : Cetirizine, Loratadine
+asthma : Inhaled corticosteroids, Salbutamol inhaler
+malaria : Chloroquine, Artemisinin-based combination therapy (ACT)
+tuberculosis : Isoniazid, Rifampicin, Pyrazinamide, Ethambutol
+typhoid : Ciprofloxacin, Azithromycin
+covid : Remdesivir, Dexamethasone, supportive care
+hypertension : Amlodipine, Losartan, Hydrochlorothiazide
+diabetes : Metformin, Insulin
+anemia : Iron supplements, Folic acid, Vitamin B12
+arthritis : Ibuprofen, Naproxen, Methotrexate
+depression : SSRIs (Fluoxetine, Sertraline), Cognitive Behavioral Therapy
+anxiety : Diazepam, Buspirone, SSRIs
